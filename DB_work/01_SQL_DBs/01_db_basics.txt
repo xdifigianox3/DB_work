@@ -1,0 +1,11 @@
+// Datenbanken anzeigen
+SHOW DATABASES;
+
+// Datenbank anlegen
+CREATE DATABASE boo;
+
+// Datenbank auswählen
+USE boo;
+
+// DB löschen --> Dann ist alles weg!
+DROP DATABASE boo; 
