@@ -1,3 +1,0 @@
-// CALL für *sql-Datei (Skript)
-
-source 03_SQL_UserDB/03_1_userDB.sql;
